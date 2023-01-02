@@ -1,0 +1,22 @@
+{
+  "name": "endmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshUpadhyay1703/229107_UTKARSH_UPADHYAY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UtkarshUpadhyay1703/229107_UTKARSH_UPADHYAY/issues"
+  },
+  "homepage": "https://github.com/UtkarshUpadhyay1703/229107_UTKARSH_UPADHYAY#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
